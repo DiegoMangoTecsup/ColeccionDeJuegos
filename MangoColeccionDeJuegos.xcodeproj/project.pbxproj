@@ -14,6 +14,7 @@
 		4669280A2AE8826800DAC568 /* MangoColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 466928082AE8826800DAC568 /* MangoColeccionDeJuegos.xcdatamodeld */; };
 		4669280C2AE8826A00DAC568 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4669280B2AE8826A00DAC568 /* Assets.xcassets */; };
 		4669280F2AE8826A00DAC568 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4669280D2AE8826A00DAC568 /* LaunchScreen.storyboard */; };
+		466928172AE8871A00DAC568 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 466928162AE8871A00DAC568 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		4669280B2AE8826A00DAC568 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4669280E2AE8826A00DAC568 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		466928102AE8826A00DAC568 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		466928162AE8871A00DAC568 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				466928012AE8826800DAC568 /* SceneDelegate.swift */,
 				466928032AE8826800DAC568 /* ViewController.swift */,
 				466928052AE8826800DAC568 /* Main.storyboard */,
+				466928162AE8871A00DAC568 /* JuegosViewController.swift */,
 				4669280B2AE8826A00DAC568 /* Assets.xcassets */,
 				4669280D2AE8826A00DAC568 /* LaunchScreen.storyboard */,
 				466928102AE8826A00DAC568 /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				466928172AE8871A00DAC568 /* JuegosViewController.swift in Sources */,
 				466928042AE8826800DAC568 /* ViewController.swift in Sources */,
 				466928002AE8826800DAC568 /* AppDelegate.swift in Sources */,
 				4669280A2AE8826800DAC568 /* MangoColeccionDeJuegos.xcdatamodeld in Sources */,
